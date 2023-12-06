@@ -27,7 +27,8 @@ Note I have already created over a million tokens with this generator. As I have
  Integrate GOLang API for realistic usernames, bios & more
  Create GUI
 
- ![image](https://github.com/buendiacomoestasyomuybien/Discord-Token-Generator-Best-/assets/145712382/b3f6b44e-40ea-40bd-825e-52b95dedacd7)
+ <img width="758" alt="image" src="https://cdn.discordapp.com/attachments/1171412559363063918/1181960600016924794/E688AAE5B18F2022-03-172016.png?ex=6582f596&is=65708096&hm=5a67748ed6a3344f601beeb19e73cc6b4571061a3b00c7300c5779d800278603&">
+
 
 You can contact me in discord ![image](https://github.com/buendiacomoestasyomuybien/Discord-Token-Generator-Best-/assets/145712382/00343b75-8408-4037-b9dc-9c9fcf3e13f2)
 
